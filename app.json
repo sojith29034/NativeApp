@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "NativeApp",
-    "slug": "react-native",
+    "slug": "nativeapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,7 +27,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "a2349fff-f889-44f6-9691-dc988f026931"
+        "projectId": "050b458a-6a36-4bc7-851b-0e12c6d9f0fd"
       }
     },
     "owner": "sojith"
